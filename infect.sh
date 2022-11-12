@@ -1,4 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
+# A tool by nitro from Instagram.com/mr_juice7
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -27,12 +27,12 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v2.1      @#%,.@        
+ X# \.X        @#%,.@   Bugs v2.1      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                         ^^Mr Juice^^
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
